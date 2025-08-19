@@ -1,4 +1,4 @@
-<img src="https://github.com/lacklux/lacklux/blob/main/header.png">
+<img src="https://github.com/Trojan-Z3ro/Trojan-Z3ro/blob/main/BiG%20fAHEEM.jpg">
 
 - 🔭 I’m currently working as a freelancer
 - 🌱 I’m currently learning Data analytics,AI,ML, Cyber security 
