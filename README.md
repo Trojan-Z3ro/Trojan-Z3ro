@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Data analytics,AI,ML, Cyber security 
 - 👯 I’m looking to collaborate on a data analysis related task
 - 🤔 I’m looking for help with work on data analysis  and web scrapping and automation job
-- 💬 Ask me about anything related to javascript/python
+- 💬 Ask me about anything related to Python
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Trojan-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:salaamoladapo@gmail.com)](mailto:salaamoladapo@gmail.com) 
 - ⚡ Fun fact: am young and a passionate programmer, i tend to learn always.
 
